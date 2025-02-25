@@ -9,7 +9,7 @@ This project explores the effectiveness of Drug A in reducing fasting blood gluc
 Managing diabetes is a global health challenge, with millions relying on medications to regulate blood sugar levels. This study sought to answer a critical quesion: *Does Drug-A truly make a difference in managing blood sugar?*
 While Drug A did not show a significant advantange over a placebo in lowering fasting blood sugar levels, several valuable insights emerged:
 - **Age** played a crucial role: Younger and older individuals showed different responses to the treatment.
-- **Location** matters: Aizona patients reacted differently to Drug A compared to other regions.
+- **Location** matters: Arizona patients reacted differently to Drug A compared to other regions.
 - An **economic dimension** surfaced: Higher treatment costs and longer hospital stays correlated with fluctuating sugar levels, highlighting challenges in accessibility and efficiency of care.
 These findings emphasize that healthcare teatments are influenced by a combination of clinical, demographic, and economic factors, and must be understood in a broader context.
 ## Repository Structure
