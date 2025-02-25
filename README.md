@@ -1,7 +1,7 @@
 # Assessing the Impact of a Drug on Fasting Sugar Levels: A Randomized Controlled Study with Three Treatment Groups
 ## Project Overview
 This project explores the effectiveness of Drug A in reducing fasting blood glucose levels among 3,400 patients in a randomized controlled trial. The project aims to determine whether Drug A significantly impacts fasting sugar levels and to explore the influence of factors such as age, financial costs, clinical trial sites and locations. The analysis was conducted using SAS 9.4 and involved several key steps:
-1. **Data cleaning:** Ensured data integrity b handling missing values and resolving inconsistencies to prepare the dataset for analysis. 
+1. **Data cleaning:** Ensured data integrity by handling missing values and resolving inconsistencies to prepare the dataset for analysis. 
 2. **Exploratory data analysis:** Conducted an initial analysis to summarize key variables and identify patterns.
 3. **Statistical analysis:** Performed t-tests, ANOVA, and chi-square tests to assess drug's effectiveness, age-related variations and site differences.
 4. **Correlation Analysis:** Explored the relationships between financial costs, hospital stays, and fasting blood sugar levels, providing a deeper understanding of the broader economic implications.
